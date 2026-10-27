@@ -1,0 +1,21 @@
+{
+  "name": "school-system",
+  "version": "1.0.0",
+  "description": "ប្រព័ន្ធគ្រប់គ្រងសាលា",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "exceljs": "^4.4.0",
+    "express": "^5.3.0",
+    "jsonwebtoken": "^9.0.3"
+  },
+  "engines": {
+    "node": ">=22.13"
+  }
+}
